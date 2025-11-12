@@ -1,6 +1,15 @@
 # Getting-Started-With-VueJs
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is based on the **VueMastery - Introduction to Vue.js** course and serves as a hands-on learning exercise.
+
+📸 **Preview**
+<br>
+![App Screenshot](./image.png)
+
+---
+
+© Copyrights belong to [VueMastery](https://www.vuemastery.com/) — *Introduction to Vue.js* course.<br>
+🟢 Live Demo: [https://getting-started-with-vuejs.netlify.app/](https://getting-started-with-vuejs.netlify.app/)
 
 ## Recommended IDE Setup
 
